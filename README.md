@@ -16,5 +16,5 @@ chat Telegram bot on python to receive information about transactions in quick
    чтобы скрипты Питона могли запускаться из любого каталога.
 
 4. Установить библиотеку Telebot для Python для работы с Телеграмм. 
-   Запустить командную строку Windows (Пуск-->Выполнить-->ввести команду cmd и нажать Enter.
+   З                 апустить командную строку Windows (Пуск-->Выполнить-->ввести команду cmd и нажать Enter.  
    Далее, в командной строке выполнить команду pip install pytelegrambotapi
